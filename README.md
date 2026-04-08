@@ -19,11 +19,11 @@
        <p align="left">
         <b>Name:</b> Daniel <br/>
         <b>Role:</b> Fullstack Developer <br/>
-        <b>Education:</b> Student at SMK Strada Jakarta <br/>
+        <b>Education:</b> Student <br/>
         <b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
         <b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
         <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
-        <b>Hobby:</b> Rice my Neovim config 
+        <b>Hobby:</b> Play Video Game
        </p>
     </td>
   </tr>
@@ -72,7 +72,6 @@
 <div align="center">
     <hr width="50%" border="1px" color="#3384FF" />
     <p><i>Configured on Fedora with Neovim.</i></p>
-    
     <a href="https://github.com/TikusJakarta?tab=repositories">
         <img src="https://img.shields.io/static/v1?label=EXPLORE&message=REPOSITORIES&color=3384FF&labelColor=555555&style=for-the-badge&logo=github" alt="Explore Repositories" />
     </a>
