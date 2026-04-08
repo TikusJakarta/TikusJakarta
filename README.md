@@ -29,23 +29,34 @@
   </tr>
 </table>
 
-## 🛠️ Skills & Stack (Clickable)
+## 🛠️ Skills & Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40"/><br/>Laravel</a></td>
-<td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="40"/><br/>Vue 3</a></td>
-<td align="center"><a href="https://getfedora.org/"><img src="https://skillicons.dev/icons?i=fedora" width="40"/><br/>Fedora</a></td>
-<td align="center"><a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40"/><br/>Neovim</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</a></td>
-<td align="center"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</a></td>
-<td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</a></td>
-<td align="center"><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma</a></td>
-</tr>
-</table>
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/static/v1?label=BACKEND&message=LARAVEL&color=FF2D20&labelColor=555555&style=for-the-badge&logo=laravel" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/static/v1?label=FRONTEND&message=VUE.JS&color=4FC08D&labelColor=555555&style=for-the-badge&logo=vuedotjs" />
+  </a>
+  <a href="https://getfedora.org/">
+    <img src="https://img.shields.io/static/v1?label=OS&message=FEDORA&color=51A2DA&labelColor=555555&style=for-the-badge&logo=fedora" />
+  </a>
+  <a href="https://neovim.io/">
+    <img src="https://img.shields.io/static/v1?label=EDITOR&message=NEOVIM&color=57A143&labelColor=555555&style=for-the-badge&logo=neovim" />
+  </a>
+  <br/>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/static/v1?label=RUNTIME&message=NODE.JS&color=339933&labelColor=555555&style=for-the-badge&logo=nodedotjs" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/static/v1?label=CSS&message=TAILWIND&color=06B6D4&labelColor=555555&style=for-the-badge&logo=tailwindcss" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/static/v1?label=DATABASE&message=MYSQL&color=4479A1&labelColor=555555&style=for-the-badge&logo=mysql" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/static/v1?label=DESIGN&message=FIGMA&color=F24E1E&labelColor=555555&style=for-the-badge&logo=figma" />
+  </a>
 </div>
 
 <br/>
