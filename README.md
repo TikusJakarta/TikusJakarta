@@ -21,11 +21,11 @@
        <br/><br/>
        🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
     </td>
-    <td width="45%" align="center">
-      <a href="https://discord.com/users/583895589914148885">
-        <img src="https://lanyard.com/api/v1/583895589914148885.png?bg=1a1a1a&theme=dark" alt="Discord Status" />
-      </a>
-    </td>
+  <td width="40%" align="center">
+  <a href="https://discord.com/users/711100412803874817">
+    <img src="https://discord-readme-badge.vercel.app/api?id=711100412803874817&theme=tokyonight&username=true" alt="Discord Status" />
+  </a>
+</td>
   </tr>
 </table>
 
