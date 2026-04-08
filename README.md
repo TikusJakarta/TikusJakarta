@@ -5,18 +5,17 @@
     
 </div>
 
-<div align="center">
-    <br/>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
-    <br/><br/>
-    <a href="https://open.spotify.com/user/0">
-       <img src="https://novatorem-spotify-status.vercel.app/api/now-playing?user_id=0&theme=dark" width="350" />
-    </a>
-</div>
 
 <br/>
 <hr width="50%" border="1px" color="#3384FF" />
 <br/>
+
+
+<div align="center">
+    <br/>
+    <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
+    <br/>
+</div>
 
 <div align="center">
     <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
