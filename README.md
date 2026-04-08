@@ -9,7 +9,6 @@
 <div align="center">
     <br/>
     <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
-    <br/>
 </div>
 
 <div align="center">
