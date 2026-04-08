@@ -22,8 +22,8 @@
        🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
     </td>
     <td width="45%" align="center">
-      <a href="https://discord.com/users/711100412803874817">
-        <img src="https://lanyard.com/api/v1/711100412803874817.png?bg=1a1a1a&theme=dark" alt="Discord Status" />
+      <a href="https://discord.com/users/583895589914148885">
+        <img src="https://lanyard.com/api/v1/583895589914148885.png?bg=1a1a1a&theme=dark" alt="Discord Status" />
       </a>
     </td>
   </tr>
