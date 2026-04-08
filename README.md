@@ -76,7 +76,7 @@
     <a href="https://github.com/TikusJakarta?tab=repositories">
         <img src="https://img.shields.io/static/v1?label=EXPLORE&message=REPOSITORIES&color=3384FF&labelColor=555555&style=for-the-badge&logo=github" alt="Explore Repositories" />
     </a>
-    <a href="https://discord.com/users/711100412803874817">
+    <a href="https://discord.com/users/583895589914148885">
         <img src="https://img.shields.io/static/v1?label=CONNECT&message=ON%20DISCORD&color=5865F2&labelColor=555555&style=for-the-badge&logo=discord" alt="Connect Discord" />
     </a>
 </div>
