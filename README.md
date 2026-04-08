@@ -19,22 +19,16 @@
 <br/>
 
 ## 🧑‍💻 About Me
-
-<table border="0">
-  <tr>
-    <td width="60%">
-       <p align="left">
-        <b>Name:</b> Daniel <br/>
-        <b>Role:</b> Fullstack Developer <br/>
-        <b>Education:</b> Student <br/>
-        <b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
-        <b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
-        <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
-        <b>Hobby:</b> Play Video Game
-       </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+<b>Name:</b> Daniel <br/>
+<b>Role:</b> Fullstack Developer <br/>
+<b>Education:</b> Student <br/>
+<b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
+<b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
+<b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
+<b>Hobby:</b> Play Video Game
+</p>
+       
 
 ## 🛠️ Skills & Stack
 
