@@ -64,7 +64,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img alt="TikusJakarta Trophies" src="https://github-profile-trophy.vercel.app/?username=TikusJakarta&column=5&theme=nord&no-bg=true&margin-w=15"/>
     <br/>
     <img alt="TikusJakarta Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TikusJakarta&bg_color=00000000&title_color=3384FF&color=3384FF&line=3384FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
     <br/>
