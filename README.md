@@ -20,11 +20,6 @@
        <br/><br/>
        🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
     </td>
-  <td width="40%" align="center">
-  <a href="https://discord.com/users/711100412803874817">
-    <img src="https://discord-profile-badge.vercel.app/api/profile/711100412803874817" alt="Discord Status" />
-  </a>
-</td>
   </tr>
 </table>
 
