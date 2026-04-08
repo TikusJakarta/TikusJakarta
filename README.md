@@ -2,11 +2,11 @@
     <img width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmSreBfTf10U8/giphy.gif"/>
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Daniel!;Fullstack+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Daniel+👋;Fullstack+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
+    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada Jakarta</h3>
     <p><i>"Crafting minimal code on a maximally tuned Fedora."</i></p>
     <br/>
     <img src="https://skillicons.dev/icons?i=laravel,vue,inertia,linux,fedora,neovim,figma,github,discord" alt="Tech Stack" />
@@ -19,7 +19,7 @@
 <table border="0">
   <tr>
     <td width="55%">
-       I am a <b>Full-Stack Developer</b> with a passion for building clean and efficient web applications. Currently focused on mastering the <b>Laravel + Vue 3</b> ecosystem while maintaining a minimalist and high-performance workflow on <b>Fedora Workstation</b>.
+       I am a <b>Full-Stack Developer</b> at <b>SMK Strada Jakarta</b> with a passion for building clean and efficient web applications. Currently focused on mastering the <b>Laravel + Vue 3</b> ecosystem while maintaining a minimalist and high-performance workflow on <b>Fedora Workstation</b>.
        <br/><br/>
        🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
     </td>
@@ -33,12 +33,12 @@
 
 ## 🛠️ Skills & Technologies
 
-* **Operating Systems:** [<ins>Fedora</ins>](https://getfedora.org/), [<ins>Arch Linux</ins>](https://archlinux.org/)
-* **Editor:** [<ins>Neovim</ins>](https://neovim.io/) (The Starboy Setup)
-* **Languages:** [<ins>PHP</ins>](https://www.php.net/), [<ins>JavaScript</ins>](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [<ins>SQL</ins>](https://www.postgresql.org/), [<ins>Bash</ins>](https://www.gnu.org/software/bash/)
-* **Backend:** [<ins>Laravel 11</ins>](https://laravel.com/), [<ins>Node.js</ins>](https://nodejs.org/)
-* **Frontend:** [<ins>Vue 3</ins>](https://vuejs.org/), [<ins>Inertia.js</ins>](https://inertiajs.com/), [<ins>TailwindCSS</ins>](https://tailwindcss.com/)
-* **Tools:** [<ins>Git</ins>](https://git-scm.com/), [<ins>Docker</ins>](https://www.docker.com/), [<ins>Figma</ins>](https://www.figma.com/)
+* **Operating Systems:** <a href="https://getfedora.org/">Fedora</a>, <a href="https://archlinux.org/">Arch Linux</a>
+* **Editor:** <a href="https://neovim.io/">Neovim</a> (The Starboy Setup)
+* **Languages:** <a href="https://www.php.net/">PHP</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, <a href="https://www.mysql.com/">SQL</a>, <a href="https://www.gnu.org/software/bash/">Bash</a>
+* **Backend:** <a href="https://laravel.com/">Laravel 11</a>, <a href="https://nodejs.org/">Node.js</a>
+* **Frontend:** <a href="https://vuejs.org/">Vue 3</a>, <a href="https://inertiajs.com/">Inertia.js</a>, <a href="https://tailwindcss.com/">TailwindCSS</a>
+* **Tools:** <a href="https://git-scm.com/">Git</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://www.figma.com/">Figma</a>
 
 <br/>
 
