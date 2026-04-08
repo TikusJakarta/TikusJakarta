@@ -60,5 +60,11 @@
 <div align="center">
   <hr width="50%" border="1px" color="#3384FF" />
   <p><i>Configured on Fedora with Neovim.</i></p>
-  <img src="https://img.shields.io/badge/Star--boy-Setup-3384FF?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge" />
+  
+  <a href="https://discord.com/users/tikusjakarta">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </div>
