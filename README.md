@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
+    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student</h3>
     <p><i>"Crafting minimal code on a maximally tuned Fedora."</i></p>
 </div>
 
