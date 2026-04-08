@@ -1,15 +1,12 @@
 <div align="center">
-    <img width=300 src="https://i.pinimg.com/originals/2f/1a/b4/2f1ab4adffb51d6f565a2eeaea71cfa9.gif"/>
+    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmSreBfTf10U8/giphy.gif"/>
     <br/>
-    <br/>
-    
-</div>
-
-
-<div align="center">
     <br/>
     <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
-    <br/>
+    <br/><br/>
+    <a href="https://spotify.com">
+      <img src="https://novatorem-spotify-status.vercel.app/api/now-playing?user_id=711100412803874817&theme=dark" width="350" />
+    </a>
 </div>
 
 <div align="center">
@@ -26,12 +23,15 @@
        <p align="left">
         <b>Name:</b> Daniel <br/>
         <b>Role:</b> Fullstack Developer <br/>
-        <b>Education:</b> Student <br/>
+        <b>Education:</b> SMK Strada Jakarta <br/>
         <b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
         <b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
         <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
         <b>Hobby:</b> Play Video Game
        </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.ibb.co/L5kR7jC/cinnamoroll-pfp.png" alt="Cinnamoroll Daniel" width="130" style="border-radius: 50%; border: 4px solid #3384FF;" />
     </td>
   </tr>
 </table>
