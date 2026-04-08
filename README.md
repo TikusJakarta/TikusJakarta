@@ -23,7 +23,7 @@
     </td>
   <td width="40%" align="center">
   <a href="https://discord.com/users/711100412803874817">
-    <img src="https://discord-readme-badge.vercel.app/api?id=711100412803874817&theme=tokyonight&username=true" alt="Discord Status" />
+    <img src="https://img.shields.io/badge/DANIEL-711100412803874817?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=1a1a1a" alt="Discord" />
   </a>
 </td>
   </tr>
