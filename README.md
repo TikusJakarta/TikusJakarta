@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmSreBfTf10U8/giphy.gif"/>
+    <img width=300 src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidXF6ZGR6Z3ZueXp3YmFidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmSreBfTf10U8/giphy.gif](https://i.pinimg.com/originals/2f/1a/b4/2f1ab4adffb51d6f565a2eeaea71cfa9.gif"/>
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Daniel+👋;Fullstack+Developer;Linux+Enthusiast" alt="Typing SVG" /></a>
