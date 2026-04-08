@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student</h3>
+    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
 </div>
 
 <br/>
@@ -15,10 +15,21 @@
 
 <table border="0">
   <tr>
-    <td width="55%">
-       I am a <b>Full-Stack Developer</b> at <b>SMK Strada Jakarta</b>. Currently focused on mastering the <b>Laravel + Vue 3</b> ecosystem while maintaining a minimalist workflow on <b>Fedora</b>.
-       <br/><br/>
-       🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
+    <td width="60%">
+       <p align="left">
+        <b>Name:</b> Daniel <br/>
+        <b>Role:</b> Fullstack Developer <br/>
+        <b>Education:</b> Student at SMK Strada Jakarta <br/>
+        <b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
+        <b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
+        <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
+        <b>Hobby:</b> Rice my Neovim config 
+       </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.ibb.co/L5kR7jC/cinnamoroll-pfp.png" alt="Cinnamoroll Daniel" width="130" style="border-radius: 50%; border: 4px solid #3384FF;" />
+      <br/>
+      <sub><i>Persona Mode</i></sub>
     </td>
   </tr>
 </table>
@@ -58,19 +69,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <br/>
     <img alt="TikusJakarta Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TikusJakarta&bg_color=00000000&title_color=3384FF&color=3384FF&line=3384FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
-    <br/>
 </div>
 
 <br/>
 
 <div align="center">
     <hr width="50%" border="1px" color="#3384FF" />
+    <p><i>Configured on Fedora with Neovim.</i></p>
+    
     <a href="https://github.com/TikusJakarta?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore-Repositories-3384FF?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/static/v1?label=EXPLORE&message=REPOSITORIES&color=3384FF&labelColor=555555&style=for-the-badge&logo=github" alt="Explore Repositories" />
     </a>
-    <a href="https://discord.com/users/583895589914148885">
-        <img src="https://img.shields.io/badge/Connect-On_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://discord.com/users/711100412803874817">
+        <img src="https://img.shields.io/static/v1?label=CONNECT&message=ON%20DISCORD&color=5865F2&labelColor=555555&style=for-the-badge&logo=discord" alt="Connect Discord" />
     </a>
 </div>
