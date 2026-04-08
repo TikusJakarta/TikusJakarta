@@ -6,11 +6,6 @@
 </div>
 
 
-<br/>
-<hr width="50%" border="1px" color="#3384FF" />
-<br/>
-
-
 <div align="center">
     <br/>
     <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
