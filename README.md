@@ -26,11 +26,6 @@
         <b>Hobby:</b> Rice my Neovim config 
        </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://i.ibb.co/L5kR7jC/cinnamoroll-pfp.png" alt="Cinnamoroll Daniel" width="130" style="border-radius: 50%; border: 4px solid #3384FF;" />
-      <br/>
-      <sub><i>Persona Mode</i></sub>
-    </td>
   </tr>
 </table>
 
