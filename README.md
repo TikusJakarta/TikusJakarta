@@ -6,10 +6,8 @@
 </div>
 
 <div align="center">
-    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada Jakarta</h3>
+    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
     <p><i>"Crafting minimal code on a maximally tuned Fedora."</i></p>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,inertia,linux,fedora,neovim,figma,github,discord" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -19,7 +17,7 @@
 <table border="0">
   <tr>
     <td width="55%">
-       I am a <b>Full-Stack Developer</b> at <b>SMK Strada Jakarta</b> with a passion for building clean and efficient web applications. Currently focused on mastering the <b>Laravel + Vue 3</b> ecosystem while maintaining a minimalist and high-performance workflow on <b>Fedora Workstation</b>.
+       I am a <b>Full-Stack Developer</b> at <b>SMK Strada Jakarta</b>. Currently focused on mastering the <b>Laravel + Vue 3</b> ecosystem while maintaining a minimalist workflow on <b>Fedora</b>.
        <br/><br/>
        🛠 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js)
     </td>
@@ -31,14 +29,24 @@
   </tr>
 </table>
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Stack (Clickable)
 
-* **Operating Systems:** <a href="https://getfedora.org/">Fedora</a>, <a href="https://archlinux.org/">Arch Linux</a>
-* **Editor:** <a href="https://neovim.io/">Neovim</a> (The Starboy Setup)
-* **Languages:** <a href="https://www.php.net/">PHP</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, <a href="https://www.mysql.com/">SQL</a>, <a href="https://www.gnu.org/software/bash/">Bash</a>
-* **Backend:** <a href="https://laravel.com/">Laravel 11</a>, <a href="https://nodejs.org/">Node.js</a>
-* **Frontend:** <a href="https://vuejs.org/">Vue 3</a>, <a href="https://inertiajs.com/">Inertia.js</a>, <a href="https://tailwindcss.com/">TailwindCSS</a>
-* **Tools:** <a href="https://git-scm.com/">Git</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://www.figma.com/">Figma</a>
+<div align="center">
+<table>
+<tr>
+<td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40"/><br/>Laravel</a></td>
+<td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="40"/><br/>Vue 3</a></td>
+<td align="center"><a href="https://getfedora.org/"><img src="https://skillicons.dev/icons?i=fedora" width="40"/><br/>Fedora</a></td>
+<td align="center"><a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40"/><br/>Neovim</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</a></td>
+<td align="center"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</a></td>
+<td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</a></td>
+<td align="center"><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma</a></td>
+</tr>
+</table>
+</div>
 
 <br/>
 
