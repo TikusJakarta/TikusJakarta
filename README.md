@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student at SMK Strada</h3>
+    <h3>🚀 Web Developer | 🐧 Linux Enthusiast | 🎓 Student</h3>
 </div>
 
 <br/>
