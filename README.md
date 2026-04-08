@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://discord.com/users/711100412803874817"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/TikusJakarta"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="https://open.spotify.com/user/711100412803874817"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 </div>
 
 <br/>
@@ -53,8 +53,8 @@ const Daniel = {
 <div align="center">
 <table>
 <tr>
-<td><a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/TikusJakarta"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D3384FF%26height%3D150%26section%3Dheader%26text%3DWeb%2520Apps%26fontSize%3D40" width="330"/></a></td>
-<td><a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/TikusJakarta"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D1A1A1A%26height%3D150%26section%3Dheader%26text%3DOpen%2520Source%26fontSize%3D40" width="330"/></a></td>
+<td><a href="https://github.com/TikusJakarta"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D3384FF%26height%3D150%26section%3Dheader%26text%3DWeb%2520Apps%26fontSize%3D40" width="330"/></a></td>
+<td><a href="https://github.com/TikusJakarta"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3D1A1A1A%26height%3D150%26section%3Dheader%26text%3DOpen%2520Source%26fontSize%3D40" width="330"/></a></td>
 </tr>
 </table>
 </div>
@@ -81,7 +81,7 @@ const Daniel = {
 <a href="https://www.google.com/search?q=https://github.com/TikusJakarta%3Ftab%3Drepositories">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Explore-Repositories-3384FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
 </a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://discord.com/users/711100412803874817">
+<a href="https://discord.com/users/711100412803874817">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-On_Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" />
 </a>
 </div>
