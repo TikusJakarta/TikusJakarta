@@ -68,8 +68,6 @@
     <br/>
     <img alt="TikusJakarta Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TikusJakarta&bg_color=00000000&title_color=3384FF&color=3384FF&line=3384FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TikusJakarta&layout=compact&theme=tokyonight&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=TikusJakarta&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
