@@ -33,7 +33,7 @@
     </td>
     <td width="40%">
       <a href="https://discord.com/users/tikusjakarta">
-        <img src="https://lanyard.com/api/v1/tikusjakarta.png?bg=1a1a1a&theme=dark" alt="Discord Status" />
+        <img src="https://lanyard.com/api/v1/tikusjakarta.png" alt="Discord Status" />
       </a>
     </td>
   </tr>
@@ -61,10 +61,10 @@
   <hr width="50%" border="1px" color="#3384FF" />
   <p><i>Configured on Fedora with Neovim.</i></p>
   
-  <a href="https://discord.com/users/tikusjakarta">
-    <img src="https://img.shields.io/badge/Vibe-Starboy_OS-3384FF?style=for-the-badge&logo=fedora&logoColor=white" alt="Starboy" />
+  <a href="https://github.com/TikusJakarta">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://img.shields.io/badge/Now_Playing-Farel's_LoFi_Setup-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <a href="http://googleusercontent.com/spotify.com/2">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </div>
