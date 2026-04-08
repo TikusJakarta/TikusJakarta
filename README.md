@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-## 🛠️ Skills & Stack (Clickable)
+## 🛠️ Skills & Stack
 
 <div align="center">
 <table>
@@ -66,10 +66,11 @@
 <div align="center">
     <hr width="50%" border="1px" color="#3384FF" />
     <p><i>Configured on Fedora with Neovim.</i></p>
+    
     <a href="https://github.com/TikusJakarta?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore-Repositories-3384FF?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/static/v1?label=EXPLORE&message=REPOSITORIES&color=3384FF&labelColor=555555&style=for-the-badge&logo=github" />
     </a>
     <a href="https://discord.com/users/711100412803874817">
-        <img src="https://img.shields.io/badge/Connect-On_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/static/v1?label=CONNECT&message=ON%20DISCORD&color=5865F2&labelColor=555555&style=for-the-badge&logo=discord" />
     </a>
 </div>
