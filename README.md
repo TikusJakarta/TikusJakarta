@@ -36,7 +36,7 @@
         <img src="https://lanyard.com/api/v1/tikusjakarta.png" alt="Discord Status" />
       </a>
     </td>
-  }
+  </tr>
 </table>
 
 <br/>
@@ -44,15 +44,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TikusJakarta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TikusJakarta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TikusJakarta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
