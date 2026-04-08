@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,fedora,neovim,php,js" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,linux,neovim,php,js" />
 </div>
 
 <div align="center">
