@@ -22,11 +22,11 @@
 <b>Role:</b> Fullstack Developer <br/>
 <b>Education:</b> Student <br/>
 <b>Focus:</b> Laravel & Vue 3 Ecosystem <br/>
-<b>Operating System:</b> Fedora (Linux Enthusiast) <br/>
+<b>Operating System:</b> CachyOS (Linux Enthusiast) <br/>
 <b>Current Project:</b> Task Manager (Laravel 11 & Inertia.js) <br/>
 <b>Hobby:</b> Play Video Game
 </p>
-       
+        
 
 ## 🛠️ Skills & Stack
 
@@ -37,8 +37,8 @@
   <a href="https://vuejs.org/">
     <img src="https://img.shields.io/static/v1?label=FRONTEND&message=VUE.JS&color=4FC08D&labelColor=555555&style=for-the-badge&logo=vuedotjs" />
   </a>
-  <a href="https://getfedora.org/">
-    <img src="https://img.shields.io/static/v1?label=OS&message=FEDORA&color=51A2DA&labelColor=555555&style=for-the-badge&logo=cachy" />
+  <a href="https://cachyos.org/">
+    <img src="https://img.shields.io/static/v1?label=OS&message=CACHYOS&color=228B22&labelColor=555555&style=for-the-badge&logo=linux" />
   </a>
   <a href="https://neovim.io/">
     <img src="https://img.shields.io/static/v1?label=EDITOR&message=NEOVIM&color=57A143&labelColor=555555&style=for-the-badge&logo=neovim" />
@@ -70,7 +70,7 @@
 
 <div align="center">
     <hr width="50%" border="1px" color="#3384FF" />
-    <p><i>Configured on Fedora with Neovim.</i></p>
+    <p><i>Configured on CachyOS with Neovim.</i></p>
     <a href="https://github.com/TikusJakarta?tab=repositories">
         <img src="https://img.shields.io/static/v1?label=EXPLORE&message=REPOSITORIES&color=3384FF&labelColor=555555&style=for-the-badge&logo=github" alt="Explore Repositories" />
     </a>
