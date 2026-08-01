@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/static/v1?label=FRONTEND&message=VUE.JS&color=4FC08D&labelColor=555555&style=for-the-badge&logo=vuedotjs" />
   </a>
   <a href="https://getfedora.org/">
-    <img src="https://img.shields.io/static/v1?label=OS&message=FEDORA&color=51A2DA&labelColor=555555&style=for-the-badge&logo=fedora" />
+    <img src="https://img.shields.io/static/v1?label=OS&message=FEDORA&color=51A2DA&labelColor=555555&style=for-the-badge&logo=cachy" />
   </a>
   <a href="https://neovim.io/">
     <img src="https://img.shields.io/static/v1?label=EDITOR&message=NEOVIM&color=57A143&labelColor=555555&style=for-the-badge&logo=neovim" />
